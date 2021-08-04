@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>116.bmp</filename>
+	<path>E:\projects\pyHome\about_yolo\yolov5\VOCData\images\116.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>581</xmin>
+			<ymin>440</ymin>
+			<xmax>685</xmax>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+</annotation>
